@@ -1,2 +1,1 @@
-# CSC413
-# CSC413
+# CSC413 Class Project
